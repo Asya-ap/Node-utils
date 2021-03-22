@@ -1,15 +1,25 @@
 {
   "name": "utils",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "compressing": "^1.5.1",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asya-ap/Node-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Asya-ap/Node-utils/issues"
+  },
+  "homepage": "https://github.com/Asya-ap/Node-utils#readme",
+  "description": ""
 }
